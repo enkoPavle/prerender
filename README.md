@@ -10,12 +10,12 @@
   ```
 
 
-* node-prerender/prerender
+* prerender/prerender
   ```sh
   node server.js
   ```
   
-* node-prerender/server
+* prerender/server
   ```sh
   node app.js
   ```
